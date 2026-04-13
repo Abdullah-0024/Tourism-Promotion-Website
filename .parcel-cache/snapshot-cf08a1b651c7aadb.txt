@@ -1,0 +1,20 @@
+19
+52C:\Users\ashfa\Downloads\campus-events\.dockerignore134205773060379042 0
+49C:\Users\ashfa\Downloads\campus-events\Dockerfile134205771903868775 0
+45C:\Users\ashfa\Downloads\campus-events\styles134205827306655948 1
+51C:\Users\ashfa\Downloads\campus-events\package.json134205830128346223 0
+49C:\Users\ashfa\Downloads\campus-events\.gitignore134205772980220337 0
+43C:\Users\ashfa\Downloads\campus-events\dist134205849099613417 1
+48C:\Users\ashfa\Downloads\campus-events\README.md134205773150711198 0
+42C:\Users\ashfa\Downloads\campus-events\src134205827306649506 1
+55C:\Users\ashfa\Downloads\campus-events\styles\style.css134205827306655948 0
+55C:\Users\ashfa\Downloads\campus-events\src\contact.html134205785426399530 0
+59C:\Users\ashfa\Downloads\campus-events\src\destination.html134205827306626790 0
+55C:\Users\ashfa\Downloads\campus-events\src\gallery.html134205785426392890 0
+53C:\Users\ashfa\Downloads\campus-events\src\index.html134205827306642107 0
+56C:\Users\ashfa\Downloads\campus-events\src\packages.html134205785426270153 0
+56C:\Users\ashfa\Downloads\campus-events\dist\contact.html134205848787201509 0
+60C:\Users\ashfa\Downloads\campus-events\dist\destination.html134205830681597281 0
+56C:\Users\ashfa\Downloads\campus-events\dist\gallery.html134205848949058077 0
+54C:\Users\ashfa\Downloads\campus-events\dist\index.html134205830190524738 0
+57C:\Users\ashfa\Downloads\campus-events\dist\packages.html134205849099566408 0
