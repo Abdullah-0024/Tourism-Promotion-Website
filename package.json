@@ -1,0 +1,21 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "description": "echo \"# Campus Events Local Tourism Website\" >> README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-0024/Tourism-Promotion-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abdullah-0024/Tourism-Promotion-Website/issues"
+  },
+  "homepage": "https://github.com/Abdullah-0024/Tourism-Promotion-Website#readme"
+}
