@@ -1,0 +1,1 @@
+echo "# Campus Events Local Tourism Website" >> README.md
